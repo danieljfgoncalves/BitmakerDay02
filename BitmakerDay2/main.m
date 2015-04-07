@@ -52,19 +52,6 @@ int main(int argc, const char * argv[]) {
         } else {
             NSLog(@"a is not greater than b");
         }*/
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
         NSLog(@"Hello, World!");
     }
     return 0;
